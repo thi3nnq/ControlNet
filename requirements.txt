@@ -1,4 +1,4 @@
-pytorch==1.12.1
+torch==1.12.1
 torchvision==0.13.1
 numpy==1.23.1
 gradio==3.16.2
