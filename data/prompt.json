@@ -1,72 +1,14 @@
-[
-    {
-        "source": "source/0.png",
-        "target": "target/0.png",
-        "prompt": "white numbers within black star black Japanese characters with white background"
-    },
-    {
-        "source": "source/1.png",
-        "target": "target/1.png",
-        "prompt": "yellow stone, and white ship in the sky"
-    },
-    {
-        "source": "source/2.png",
-        "target": "target/2.png",
-        "prompt": "black Japanese character in the oval, two students in uniforms with red ties, and the yellow electric light"
-    },
-    {
-        "source": "source/3.png",
-        "target": "target/3.png",
-        "prompt": "black Japanese characters in the oval, blue Japanese character outside the oval, and one light blue haired student in uniform with red tie"
-    },
-    {
-        "source": "source/4.png",
-        "target": "target/4.png",
-        "prompt": "black Japanese characters in the oval, two students in uniforms with red ties, and the sky"
-    },
-    {
-        "source": "source/5.png",
-        "target": "target/5.png",
-        "prompt": "black Japanese characters in the oval, and one light blue haired student in uniform wearing glasses"
-    },
-    {
-        "source": "source/6.png",
-        "target": "target/6.png",
-        "prompt": "black Japanese characters in the oval, two students in uniforms standing on the balcony with red ties, and the sky"
-    },
-    {
-        "source": "source/7.png",
-        "target": "target/7.png",
-        "prompt": "black Japanese characters in the oval, two students in uniforms with red ties, a building with gray paint, and the sky"
-    },
-    {
-        "source": "source/8.png",
-        "target": "target/8.png",
-        "prompt": "black Japanese characters with white background"
-    },
-    {
-        "source": "source/9.png",
-        "target": "target/9.png",
-        "prompt": "one light blue haired student in uniform wearing glasses, and one light blue haired king in armor"
-    },
-    {
-        "source": "source/10.png",
-        "target": "target/10.png",
-        "prompt": "black Japanese characters with white background"
-    },
-    {
-        "source": "source/11.png",
-        "target": "target/11.png",
-        "prompt": "black Japanese characters in the oval, and one brown haired student in uniform"
-    },
-    {
-        "source": "source/12.png",
-        "target": "target/12.png",
-        "prompt": "black Japanese characters in the oval, two students in uniforms with red ties, a building with gray paint, the yellow electric lights, and the sky"
-    },
-    {
-        "source": "source/13.png",
-        "target": "target/13.png",
-        "prompt": "black Japanese characters in the oval, two students in uniforms standing on the balcony with red ties, and the sky"
-    }
-]
+{"source": "source/0.png", "target": "target/0.png", "prompt": "white numbers within black star black Japanese characters with white background"}
+{"source": "source/1.png", "target": "target/1.png", "prompt": "yellow stone, and white ship in the sky"}
+{"source": "source/2.png", "target": "target/2.png", "prompt": "black Japanese character in the oval, two students in uniforms with red ties, and the yellow electric light"}
+{"source": "source/3.png", "target": "target/3.png", "prompt": "black Japanese characters in the oval, blue Japanese character outside the oval, and one light blue haired student in uniform with red tie"}
+{"source": "source/4.png", "target": "target/4.png", "prompt": "black Japanese characters in the oval, two students in uniforms with red ties, and the sky"}
+{"source": "source/5.png", "target": "target/5.png", "prompt": "black Japanese characters in the oval, and one light blue haired student in uniform wearing glasses"}
+{"source": "source/6.png", "target": "target/6.png", "prompt": "black Japanese characters in the oval, two students in uniforms standing on the balcony with red ties, and the sky"}
+{"source": "source/7.png", "target": "target/7.png", "prompt": "black Japanese characters in the oval, two students in uniforms with red ties, a building with gray paint, and the sky"}
+{"source": "source/8.png", "target": "target/8.png", "prompt": "black Japanese characters with white background"}
+{"source": "source/9.png", "target": "target/9.png", "prompt": "one light blue haired student in uniform wearing glasses, and one light blue haired king in armor"}
+{"source": "source/10.png", "target": "target/10.png", "prompt": "black Japanese characters with white background"}
+{"source": "source/11.png", "target": "target/11.png", "prompt": "black Japanese characters in the oval, and one brown haired student in uniform"}
+{"source": "source/12.png", "target": "target/12.png", "prompt": "black Japanese characters in the oval, two students in uniforms with red ties, a building with gray paint, the yellow electric lights, and the sky"}
+{"source": "source/13.png", "target": "target/13.png", "prompt": "black Japanese characters in the oval, two students in uniforms standing on the balcony with red ties, and the sky"}
