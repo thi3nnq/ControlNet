@@ -25,8 +25,8 @@ ENV PATH /opt/conda/bin:$PATH
 # setup conda virtual environment
 COPY ./environment.yaml /tmp/environment.yaml
 RUN conda update conda \
-    && conda env create --name camera-seg -f /tmp/requirements.yaml
+    && conda env create -f /tmp/environment.yaml
 
-RUN echo "conda activate camera-seg" >> ~/.bashrc
-ENV PATH /opt/conda/envs/camera-seg/bin:$PATH
-ENV CONDA_DEFAULT_ENV $camera-seg
+RUN echo "conda activate control" >> ~/.bashrc
+ENV PATH /opt/conda/envs/control/bin:$PATH
+ENV CONDA_DEFAULT_ENV $control
